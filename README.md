@@ -7,3 +7,16 @@
 * docker exec -it d214756bfdfb bash # to bash into that running container
 * exit # to exit out of that running container
 * docker cp d214756bfdfb:/src/requirements.txt ./test.txt # to get a file out of the container
+
+
+* docker build --target=debugger . # for debugging
+
+
+https://www.youtube.com/watch?v=qCCj7qy72Bg&ab_channel=DevOpsDirective
+
+
+
+
+https://www.youtube.com/watch?v=jtBVppyfDbE&ab_channel=TheDigitalLife
+docker build . 
+docker run imagenumber
