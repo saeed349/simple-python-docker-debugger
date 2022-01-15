@@ -1,6 +1,7 @@
 ## Using VS Code functionality 
 * Press F1
 * Select Docker: Add docker compose files to workspace
+* Make sure your default interpreter is python 3.7 or above. 
 
 https://www.youtube.com/watch?v=jtBVppyfDbE&ab_channel=TheDigitalLife
 
